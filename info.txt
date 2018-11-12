@@ -1,0 +1,4 @@
+
+vi input test text.
+this is line 3.
+
